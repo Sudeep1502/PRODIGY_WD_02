@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# StopWatch
  A fully functional and responsive stopwatch web application built using HTML, CSS, and JavaScript. Features include **start**, **pause**, **reset**, and **lap recording**.
 
 ---
