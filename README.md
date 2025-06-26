@@ -1,3 +1,12 @@
 # PRODIGY_WD_02
- I have successfully built a stopwatch web application, using HTML, CSS, and JavaScript. HTML is used to structure the elements of the application. By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals. With these technologies and functionalities,
-it is an interactive and user-friendly stopwatch web application.
+ A fully functional and responsive stopwatch web application built using HTML, CSS, and JavaScript. Features include **start**, **pause**, **reset**, and **lap recording**.
+
+---
+
+## 🚀 Features
+
+- 🟢 **Start, Pause & Reset Timer**
+- 🟦 **Lap Functionality** – Track multiple timestamps
+- 🔢 **Millisecond Precision**
+- 🎨 **Responsive & Stylish UI**
+- 🧼 **Reset clears all laps and timer**
